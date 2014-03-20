@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-""" Sample Script
+""" PyTail
+    WIP
     Version 0.1
 """
 
